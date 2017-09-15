@@ -16,7 +16,7 @@ To use this extension, you have to configure the Connection class in your applic
 
 ```php
 'components' => [
-	'wxPay' => [
+	'wechatpay' => [
 		'class' => 'changyuan\wechatpay\WxPayConfig',
 		'app_id' => '',
 		'mch_id' => '',
